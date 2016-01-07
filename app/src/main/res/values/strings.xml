@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="server_client_id">837596860453-3tqili88hfpkgjg24li0s51rle5f4k32.apps.googleusercontent.com</string>
+
+    <string name="btnSignin">Sign In</string>
+    <string name="btnSignout">Cerrar Sesión</string>
+    <string name="signed_out">^-^</string>
+    <string name="signed_out2">…</string>
+    <string name="loading">Loading</string>
+    <string name="signed_in_fmt">Usuario: %s</string>
+    <string name="signed_in_fmt2">Correo: %s</string>
+    <string name="bRegistro">Registrarse</string>
+    <string name="Usuario">Nombre de Usuario:</string>
+    <string name="Contraseña">Escoja un Contraseña:</string>
+    <string name="Email">Indique su Email:</string>
+
+
+</resources>
